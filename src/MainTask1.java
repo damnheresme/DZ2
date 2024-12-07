@@ -27,7 +27,7 @@ class Product {  // Класс, представляющий товаp
     }
 }
 
-public class Main {  // Класс с методом main
+public class MainTask1 {  // Класс с методом main
     public static void main(String[] args) {
         // Создаем 3 объекта товара с различными параметрами
         Product product1 = new Product(10, 100.0, 0.75);
