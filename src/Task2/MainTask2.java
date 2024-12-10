@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package Task2;
 
 public class MainTask2 {
 }
