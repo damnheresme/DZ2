@@ -1,4 +1,12 @@
 package Task2;
 
-public class Animal {
+// Интерфейс Animal
+public interface Animal {
+    String getBreed();
+
+    String getName();
+
+    Double getCost();
+
+    String getCharacter();
 }

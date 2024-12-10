@@ -1,4 +1,8 @@
 package Task2;
 
-public class CreateAnimalService {
+// Сервис для создания животных
+public interface CreateAnimalService {
+    void createTenAnimals();
+
+    void createNAnimals(int n);
 }
